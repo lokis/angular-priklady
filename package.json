@@ -1,0 +1,12 @@
+{
+  "name": "angular-zaklady",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bower": "^1.3.12",
+    "debug": "~2.0.0",
+  },
+  "devDependencies": {
+    "generator-angular-fullstack": "^2.0.13",
+  }
+}
